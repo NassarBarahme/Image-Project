@@ -561,7 +561,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Nassar Barahme**  
 _Computer Engineering Undergraduate | Full Stack Web & Mobile Developer_
 
-- 💼 LinkedIn: [Nassar Barahme](https://www.linkedin.com/in/nassar-barahme)
+- 💼 LinkedIn: [Nassar Barahme](www.linkedin.com/in/nassar-barahme-378826362
+
+)
+
 - 🐙 GitHub: [@NassarBarahme](https://github.com/NassarBarahme)
 
 ---
